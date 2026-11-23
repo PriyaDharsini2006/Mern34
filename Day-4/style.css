@@ -1,6 +1,5 @@
 /* element selector */
 
-
 /* p {
     color:green;
     font-size: 20px;
@@ -28,6 +27,7 @@ h1 {
 } */
 
 
+/* class selector */
 /* 
 .para{
     color: red;
@@ -39,7 +39,7 @@ h1 {
 
 
 
-p{
+/* p{
     font-family:Arial;
     font-size:30px;
     font-weight: 500;
@@ -48,4 +48,9 @@ p{
     text-align:center;
     text-decoration:underline;
     text-transform:uppercase;
+} */
+
+
+p{
+    color:#ff0000;
 }

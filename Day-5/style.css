@@ -1,0 +1,44 @@
+.para{
+    /* RGB */
+    /* color:#000000 */
+
+    
+    /* 0-255 */
+    /* color:rgb(93, 165, 15) */
+
+    width: 800px;
+    height: 500px;
+    line-height: 300px;
+    color:rgb(93, 165, 15);
+    background-color:rgb(47, 44, 44);
+    /* background-image:url("../test.png"); */
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:left;
+    background-attachment:fixed;
+    opacity:1;
+   padding-left:100px;
+   border-top: 2px solid red;
+   border-right: 10px dashed green;
+   border-bottom: 4px dotted blue;
+   border-left: 5px double orange;
+
+   border-top-width: 20px;
+   border-right-style:double;
+
+   border-radius:100px;
+
+   margin-top:20px;
+   margin-right:50px;
+}
+
+
+
+.container{
+    background-color:rgb(93, 165, 15);
+    width: 800px;
+    height: 500px;
+    padding:20px;
+    border: 8px solid black;
+    margin-right:20px;
+}
